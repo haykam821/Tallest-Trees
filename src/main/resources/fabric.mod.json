@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "tallesttrees",
+	"version": "1.0.0",
+	"name": "Tallest Trees",
+	"description": "Makes all trees stretch to the height limit.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Tallest-Trees#readme",
+		"issues": "https://github.com/haykam821/Tallest-Trees/issues"
+	},
+	"mixins": [
+		"tallesttrees.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/tallesttrees/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}

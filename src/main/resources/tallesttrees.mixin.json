@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "io.github.haykam821.tallesttrees.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"TreeFeatureMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
